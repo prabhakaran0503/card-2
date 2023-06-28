@@ -1,0 +1,53 @@
+*{margin:0;
+		 padding:0px;
+		 box-sizing:border-box;}
+		 
+.plkm{     
+			width:25%;
+			text-align:center;
+			margin:auto;
+			margin-top:50px;
+		}
+					
+.prabha h3{
+				background-color:#0b03fc;
+				color:#fafcfb;
+				margin:auto; width:100%;
+				padding:20px; 
+				text-align:center;
+				border-radius:15px 15px 0px 0px 
+			}
+		 
+p{
+	padding-top:30px;
+	}
+
+span{
+		color:#0b03fc;
+		font-size:30px;
+		font-weight:bold;
+	}
+
+a	{
+		background-color:#0b03fc;
+		border-radius:10px 10px 10px 10px;
+		text-decoration:none;
+		color:#e3e4e6;
+		padding:10px 20px;
+	}
+			
+
+			
+.karan{
+		color:#6e7871
+		}
+
+h4{
+	color:#b5b4b0;padding:30px;
+	}
+			
+#bala{
+		background-color:#bbc9bf;
+		padding:30px; 
+		border-radius:0px 0px 15px 15px;
+		}
